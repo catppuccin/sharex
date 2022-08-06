@@ -12,12 +12,12 @@
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/sample.png"/>
+	<img src="https://github.com/Dukeatron/sharex/blob/9fc55da444f276ec8f74bcb58df2a26f74d59189/screenshots/5993toka.png"/>
 </p>
 
 ## Screenshots
 
-Check within the [screenshots](https://github.com) folder.
+Check within the [screenshots](screenshots/) folder.
 
 ## Usage
 
