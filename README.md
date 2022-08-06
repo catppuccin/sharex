@@ -17,7 +17,7 @@
 
 ## Screenshots
 
-Check within the [screenshots](assets/) folder.
+Check within the [assets](assets/) folder.
 
 ## Usage
 
