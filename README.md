@@ -30,6 +30,11 @@ Check within the [assets](assets/) folder.
 
 - [Dukeatron](https://github.com/Dukeatron)
 
+## TODO
+
+- [ ] Add optional border with the Catppuccin icon
+- [ ] Fix image contrast/exposure
+
 &nbsp;
 
 <p align="center">
