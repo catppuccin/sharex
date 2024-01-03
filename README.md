@@ -32,7 +32,7 @@ Check within the [assets](assets/) folder.
 
 ## TODO
 
-- [ ] Add optional border with the Catppuccin icon
+- [x] Add optional border with the Catppuccin icon
 - [ ] Fix image contrast/exposure
 
 &nbsp;
