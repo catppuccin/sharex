@@ -48,7 +48,7 @@ Check within the [assets](assets/) folder.
 
 - [x] Add optional border with the Catppuccin icon
 - [x] Fix image contrast/exposure
-- [ ] Add more Themes
+- [x] Add more Themes
 
 &nbsp;
 
