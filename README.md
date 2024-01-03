@@ -14,6 +14,9 @@
 <p align="center">
 	<img src="https://github.com/Dukeatron/sharex/blob/9fc55da444f276ec8f74bcb58df2a26f74d59189/screenshots/5993toka.png"/>
 </p>
+<p align="center">
+	<img src="https://github.com/Dukeatron/sharex/blob/9fc55da444f276ec8f74bcb58df2a26f74d59189/screenshots/5993toka.png"/>
+</p>
 
 ## Screenshots
 
