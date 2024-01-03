@@ -1,0 +1,21 @@
+{
+  "Name": "Catppuccin Macchiato",
+  "BackgroundColor": "36, 39, 58",
+  "LightBackgroundColor": "54, 58, 79",
+  "DarkBackgroundColor": "30, 32, 48",
+  "TextColor": "202, 211, 245",
+  "BorderColor": "24, 25, 38",
+  "CheckerColor": "36, 39, 58",
+  "CheckerColor2": "30, 32, 48",
+  "CheckerSize": 15,
+  "LinkColor": "125, 196, 228",
+  "MenuHighlightColor": "30, 32, 48",
+  "MenuHighlightBorderColor": "54, 58, 79",
+  "MenuBorderColor": "54, 58, 79",
+  "MenuCheckBackgroundColor": "30, 32, 48",
+  "MenuFont": "Segoe UI, 9.75pt",
+  "ContextMenuFont": "Segoe UI, 9.75pt",
+  "ContextMenuOpacity": 100,
+  "SeparatorLightColor": "30, 32, 48",
+  "SeparatorDarkColor": "24, 25, 38"
+}

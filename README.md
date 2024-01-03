@@ -14,26 +14,41 @@
 <p align="center">
 	<img src="https://github.com/Dukeatron/sharex/blob/9fc55da444f276ec8f74bcb58df2a26f74d59189/screenshots/5993toka.png"/>
 </p>
+<p align="center">
+	<img src="https://raw.githubusercontent.com/kingofcube/sharex/main/assets/ShareX_8Ivzp3y2vO.webp"/>
+</p>
 
 ## Screenshots
 
 Check within the [assets](assets/) folder.
 
-## Usage
+## Usage (Image Effect)
 
 1. Clone this repository locally to a suitable directory
 2. Click on one of the configuration files, each one is named after a flavor of the colorscheme. Pick whichever you like!
 3. Give it a friendly name within ShareX
 4. Enjoy the theme!
 
+## Usage (Theme)
+1. Clone this repository locally (Or download the source code)
+2. Go to ShareX
+3. Select "Application Settings"
+4. Select "Theme"
+5. Select "Import"
+6. Select "From File"
+7. Select the theme file
+8. Enjoy the theme!
+
 ## 💝 Thanks to
 
 - [Dukeatron](https://github.com/Dukeatron)
+- [King Cube](https://github.com/kingofcube)
 
 ## TODO
 
-- [ ] Add optional border with the Catppuccin icon
-- [ ] Fix image contrast/exposure
+- [x] Add optional border with the Catppuccin icon
+- [x] Fix image contrast/exposure
+- [ ] Add more Themes
 
 &nbsp;
 
