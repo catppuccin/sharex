@@ -15,10 +15,10 @@
 	<img src="https://raw.githubusercontent.com/kingofcube/sharex/main/assets/ShareX%20Macchiato.png"/>
 </p>
 <p align="center">
-	<img src="https://raw.githubusercontent.com/kingofcube/sharex/main/assets/ShareX_8Ivzp3y2vO.webp"/>
+	<img src="https://raw.githubusercontent.com/kingofcube/sharex/main/assets/themes-screenshots/ShareX%20Macchiato.webp"/>
 </p>
 
-## Previews ()
+## Previews
 
 <details>
 <summary>🌻 Latte</summary>
@@ -26,7 +26,7 @@
 <img src="https://raw.githubusercontent.com/kingofcube/sharex/main/assets/themes-screenshots/ShareX%20Latte.webp"/>
 </details>
 <details>
-<summary>🪴 Frappé</summary>
+<summary>🪴 Frappé (Doesnt Have Theme Yet)</summary>
 <img src="https://raw.githubusercontent.com/kingofcube/sharex/main/assets/ShareX%20Frappe.png"/>
 </details>
 <details>
@@ -35,7 +35,7 @@
 <img src="https://raw.githubusercontent.com/kingofcube/sharex/main/assets/themes-screenshots/ShareX%20Macchiato.webp"/>
 </details>
 <details>
-<summary>🌿 Mocha (Theme isnt made yet...)</summary>
+<summary>🌿 Mocha (Doesnt Have Theme Yet)</summary>
 <img src="https://github.com/kingofcube/sharex/blob/main/assets/ShareX%20Mocha.png"/>
 </details>
 
