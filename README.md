@@ -12,15 +12,32 @@
 </p>
 
 <p align="center">
-	<img src="https://github.com/Dukeatron/sharex/blob/9fc55da444f276ec8f74bcb58df2a26f74d59189/screenshots/5993toka.png"/>
+	<img src="https://raw.githubusercontent.com/kingofcube/sharex/main/assets/ShareX%20Macchiato.png"/>
 </p>
 <p align="center">
 	<img src="https://raw.githubusercontent.com/kingofcube/sharex/main/assets/ShareX_8Ivzp3y2vO.webp"/>
 </p>
 
-## Screenshots
+## Previews ()
 
-Check within the [assets](assets/) folder.
+<details>
+<summary>🌻 Latte</summary>
+<img src="https://raw.githubusercontent.com/kingofcube/sharex/main/assets/v5kyrhpl.png"/>
+<img src="https://raw.githubusercontent.com/kingofcube/sharex/main/assets/themes-screenshots/ShareX%20Latte.webp"/>
+</details>
+<details>
+<summary>🪴 Frappé</summary>
+
+</details>
+<details>
+<summary>🌺 Macchiato</summary>
+<img src="https://raw.githubusercontent.com/kingofcube/sharex/main/assets/ShareX%20Macchiato.png"/>
+<img src="https://raw.githubusercontent.com/kingofcube/sharex/main/assets/themes-screenshots/ShareX%20Macchiato.webp"/>
+</details>
+<details>
+<summary>🌿 Mocha (Theme isnt made yet...)</summary>
+<img src="https://raw.githubusercontent.com/kingofcube/sharex/main/assets/5993toka.png"/>
+</details>
 
 ## Usage (Image Effect)
 
@@ -36,7 +53,7 @@ Check within the [assets](assets/) folder.
 4. Select "Theme"
 5. Select "Import"
 6. Select "From File"
-7. Select the theme file
+7. Select the .json file
 8. Enjoy the theme!
 
 ## 💝 Thanks to
