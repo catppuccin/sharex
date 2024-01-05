@@ -1,0 +1,21 @@
+{
+  "Name": "Catppuccin Latte",
+  "BackgroundColor": "239, 241, 245",
+  "LightBackgroundColor": "204, 208, 218",
+  "DarkBackgroundColor": "230, 233, 239",
+  "TextColor": "76, 79, 105",
+  "BorderColor": "220, 224, 232",
+  "CheckerColor": "239, 241, 245",
+  "CheckerColor2": "230, 233, 239",
+  "CheckerSize": 15,
+  "LinkColor": "32, 159, 181",
+  "MenuHighlightColor": "230, 233, 239",
+  "MenuHighlightBorderColor": "204, 208, 218",
+  "MenuBorderColor": "204, 208, 218",
+  "MenuCheckBackgroundColor": "230, 233, 239",
+  "MenuFont": "Segoe UI, 9.75pt",
+  "ContextMenuFont": "Segoe UI, 9.75pt",
+  "ContextMenuOpacity": 100,
+  "SeparatorLightColor": "230, 233, 239",
+  "SeparatorDarkColor": "220, 224, 232"
+}
