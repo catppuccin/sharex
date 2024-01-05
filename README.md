@@ -22,12 +22,12 @@
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="https://raw.githubusercontent.com/kingofcube/sharex/main/assets/v5kyrhpl.png"/>
+<img src="https://raw.githubusercontent.com/kingofcube/sharex/main/assets/ShareX%20Latte.png"/>
 <img src="https://raw.githubusercontent.com/kingofcube/sharex/main/assets/themes-screenshots/ShareX%20Latte.webp"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-
+<img src="https://raw.githubusercontent.com/kingofcube/sharex/main/assets/ShareX%20Frappe.png"/>
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
@@ -36,7 +36,7 @@
 </details>
 <details>
 <summary>🌿 Mocha (Theme isnt made yet...)</summary>
-<img src="https://raw.githubusercontent.com/kingofcube/sharex/main/assets/5993toka.png"/>
+<img src="https://github.com/kingofcube/sharex/blob/main/assets/ShareX%20Mocha.png"/>
 </details>
 
 ## Usage (Image Effect)
