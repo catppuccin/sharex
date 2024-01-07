@@ -44,7 +44,7 @@
 1. Clone this repository locally to a suitable directory
 2. Click on one of the configuration files, each one is named after a flavor of the colorscheme. Pick whichever you like!
 3. Give it a friendly name within ShareX
-4. Enjoy the theme!
+4. Enjoy the image effect!
 
 ## Usage (Theme)
 1. Clone this repository locally (Or download the source code)
