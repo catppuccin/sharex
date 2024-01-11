@@ -43,18 +43,16 @@
 
 ### Image Effects
 
-1. Clone this repository locally to a suitable directory
-2. Click on one of the configuration files, each one is named after a flavor of the colorscheme. Pick whichever you like!
-3. Give it a friendly name within ShareX
-4. Enjoy the theme!
+1. Download the `image-effects/` directory from the [latest release](https://github.com/catppuccin/sharex/releases/latest)
+2. Choose one of the `.sxie` files to double-click. (This will open the image-effects window in ShareX, make sure to allow image effects!)
+3. Close the window and enjoy your new image effects.
 
 ### Themes
 
 1. Download the `themes/` directory from the [latest release](https://github.com/catppuccin/sharex/releases/latest)
-2. Open ShareX.
-3. Navigate to `Application Settings` → `Theme` → `Import`
+2. Open ShareX and navigate to `Application Settings` → `Theme` → `Import`
 4. Select `From File`
-5. Select downloaded theme file, based on your preference.
+5. Choose one of the downloaded theme files.
 6. Enjoy the theme!
 
 ## 💝 Thanks to
