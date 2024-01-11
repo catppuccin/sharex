@@ -16,6 +16,6 @@
   "MenuFont": "Segoe UI, 9.75pt",
   "ContextMenuFont": "Segoe UI, 9.75pt",
   "ContextMenuOpacity": 100,
-  "SeparatorLightColor": "239, 241, 245",
-  "SeparatorDarkColor": "230, 233, 239"
+  "SeparatorLightColor": "92, 95, 119",
+  "SeparatorDarkColor": "108, 111, 133"
 }
