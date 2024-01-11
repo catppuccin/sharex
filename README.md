@@ -12,15 +12,32 @@
 </p>
 
 <p align="center">
-	<img src="https://github.com/Dukeatron/sharex/blob/9fc55da444f276ec8f74bcb58df2a26f74d59189/screenshots/5993toka.png"/>
-</p>
-<p align="center">
-	<img src="https://raw.githubusercontent.com/kingofcube/sharex/main/assets/ShareX_8Ivzp3y2vO.webp"/>
+	<img src="https://raw.githubusercontent.com/catppuccin/sharex/rewrite/assets/image-effects/preview.webp"/>
+	<img src="https://raw.githubusercontent.com/catppuccin/sharex/rewrite/assets/themes/preview.webp"/>
 </p>
 
-## Screenshots
+## Previews
 
-Check within the [assets](assets/) folder.
+<details>
+	<summary>🌻 Latte</summary>
+	<img src="https://raw.githubusercontent.com/catppuccin/sharex/rewrite/assets/image-effects/latte.webp"/>
+	<img src="https://raw.githubusercontent.com/catppuccin/sharex/rewrite/assets/themes/latte.webp"/>
+</details>
+<details>
+	<summary>🪴 Frappé</summary>
+	<img src="https://raw.githubusercontent.com/catppuccin/sharex/rewrite/assets/image-effects/frappe.webp"/>
+	<img src="https://raw.githubusercontent.com/catppuccin/sharex/rewrite/assets/themes/frappe.webp"/>
+</details>
+<details>
+	<summary>🌺 Macchiato</summary>
+	<img src="https://raw.githubusercontent.com/catppuccin/sharex/rewrite/assets/image-effects/macchiato.webp"/>
+	<img src="https://raw.githubusercontent.com/catppuccin/sharex/rewrite/assets/themes/macchiato.webp"/>
+</details>
+<details>
+	<summary>🌿 Mocha</summary>
+	<img src="https://raw.githubusercontent.com/catppuccin/sharex/rewrite/assets/image-effects/mocha.webp"/>
+	<img src="https://raw.githubusercontent.com/catppuccin/sharex/rewrite/assets/themes/mocha.webp"/>
+</details>
 
 ## Usage
 
@@ -36,9 +53,9 @@ Check within the [assets](assets/) folder.
 1. Download the `themes/` directory from the [latest release](https://github.com/catppuccin/sharex/releases/latest)
 2. Open ShareX.
 3. Navigate to `Application Settings` → `Theme` → `Import`
-4. Select `From File` 
-7. Select downloaded theme file, based on your preference.
-8. Enjoy the theme!
+4. Select `From File`
+5. Select downloaded theme file, based on your preference.
+6. Enjoy the theme!
 
 ## 💝 Thanks to
 
