@@ -12,31 +12,31 @@
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/catppuccin/sharex/rewrite/assets/image-effects/preview.webp"/>
-	<img src="https://raw.githubusercontent.com/catppuccin/sharex/rewrite/assets/themes/preview.webp"/>
+	<img src="https://raw.githubusercontent.com/catppuccin/sharex/main/assets/image-effects/preview.webp"/>
+	<img src="https://raw.githubusercontent.com/catppuccin/sharex/main/assets/themes/preview.webp"/>
 </p>
 
 ## Previews
 
 <details>
 	<summary>🌻 Latte</summary>
-	<img src="https://raw.githubusercontent.com/catppuccin/sharex/rewrite/assets/image-effects/latte.webp"/>
-	<img src="https://raw.githubusercontent.com/catppuccin/sharex/rewrite/assets/themes/latte.webp"/>
+	<img src="https://raw.githubusercontent.com/catppuccin/sharex/main/assets/image-effects/latte.webp"/>
+	<img src="https://raw.githubusercontent.com/catppuccin/sharex/main/assets/themes/latte.webp"/>
 </details>
 <details>
 	<summary>🪴 Frappé</summary>
-	<img src="https://raw.githubusercontent.com/catppuccin/sharex/rewrite/assets/image-effects/frappe.webp"/>
-	<img src="https://raw.githubusercontent.com/catppuccin/sharex/rewrite/assets/themes/frappe.webp"/>
+	<img src="https://raw.githubusercontent.com/catppuccin/sharex/main/assets/image-effects/frappe.webp"/>
+	<img src="https://raw.githubusercontent.com/catppuccin/sharex/main/assets/themes/frappe.webp"/>
 </details>
 <details>
 	<summary>🌺 Macchiato</summary>
-	<img src="https://raw.githubusercontent.com/catppuccin/sharex/rewrite/assets/image-effects/macchiato.webp"/>
-	<img src="https://raw.githubusercontent.com/catppuccin/sharex/rewrite/assets/themes/macchiato.webp"/>
+	<img src="https://raw.githubusercontent.com/catppuccin/sharex/main/assets/image-effects/macchiato.webp"/>
+	<img src="https://raw.githubusercontent.com/catppuccin/sharex/main/assets/themes/macchiato.webp"/>
 </details>
 <details>
 	<summary>🌿 Mocha</summary>
-	<img src="https://raw.githubusercontent.com/catppuccin/sharex/rewrite/assets/image-effects/mocha.webp"/>
-	<img src="https://raw.githubusercontent.com/catppuccin/sharex/rewrite/assets/themes/mocha.webp"/>
+	<img src="https://raw.githubusercontent.com/catppuccin/sharex/main/assets/image-effects/mocha.webp"/>
+	<img src="https://raw.githubusercontent.com/catppuccin/sharex/main/assets/themes/mocha.webp"/>
 </details>
 
 ## Usage
