@@ -12,43 +12,52 @@
 </p>
 
 <p align="center">
-	<img src="https://github.com/Dukeatron/sharex/blob/9fc55da444f276ec8f74bcb58df2a26f74d59189/screenshots/5993toka.png"/>
-</p>
-<p align="center">
-	<img src="https://raw.githubusercontent.com/kingofcube/sharex/main/assets/ShareX_8Ivzp3y2vO.webp"/>
+	<img src="https://raw.githubusercontent.com/catppuccin/sharex/main/assets/image-effects/preview.webp"/>
+	<img src="https://raw.githubusercontent.com/catppuccin/sharex/main/assets/themes/preview.webp"/>
 </p>
 
-## Screenshots
+## Previews
 
-Check within the [assets](assets/) folder.
+<details>
+	<summary>🌻 Latte</summary>
+	<img src="https://raw.githubusercontent.com/catppuccin/sharex/main/assets/image-effects/latte.webp"/>
+	<img src="https://raw.githubusercontent.com/catppuccin/sharex/main/assets/themes/latte.webp"/>
+</details>
+<details>
+	<summary>🪴 Frappé</summary>
+	<img src="https://raw.githubusercontent.com/catppuccin/sharex/main/assets/image-effects/frappe.webp"/>
+	<img src="https://raw.githubusercontent.com/catppuccin/sharex/main/assets/themes/frappe.webp"/>
+</details>
+<details>
+	<summary>🌺 Macchiato</summary>
+	<img src="https://raw.githubusercontent.com/catppuccin/sharex/main/assets/image-effects/macchiato.webp"/>
+	<img src="https://raw.githubusercontent.com/catppuccin/sharex/main/assets/themes/macchiato.webp"/>
+</details>
+<details>
+	<summary>🌿 Mocha</summary>
+	<img src="https://raw.githubusercontent.com/catppuccin/sharex/main/assets/image-effects/mocha.webp"/>
+	<img src="https://raw.githubusercontent.com/catppuccin/sharex/main/assets/themes/mocha.webp"/>
+</details>
 
-## Usage (Image Effect)
+## Usage
 
-1. Clone this repository locally to a suitable directory
-2. Click on one of the configuration files, each one is named after a flavor of the colorscheme. Pick whichever you like!
-3. Give it a friendly name within ShareX
-4. Enjoy the theme!
+### Image Effects
 
-## Usage (Theme)
-1. Clone this repository locally (Or download the source code)
-2. Go to ShareX
-3. Select "Application Settings"
-4. Select "Theme"
-5. Select "Import"
-6. Select "From File"
-7. Select the theme file
-8. Enjoy the theme!
+1. Download the `image-effects` directory from the [latest release](https://github.com/catppuccin/sharex/releases/latest)
+2. Choose one of the `.sxie` files to double-click. (This will open the image-effects window in ShareX, make sure to allow image effects!)
+3. Close the window and enjoy your new image effects!
+
+### Themes
+
+1. Download the `themes` directory from the [latest release](https://github.com/catppuccin/sharex/releases/latest)
+2. Open ShareX and navigate to `Application Settings` → `Theme` → `Import`
+3. Select `From File`
+4. Choose one of the downloaded theme files and enjoy the theme!
 
 ## 💝 Thanks to
 
 - [Dukeatron](https://github.com/Dukeatron)
 - [King Cube](https://github.com/kingofcube)
-
-## TODO
-
-- [x] Add optional border with the Catppuccin icon
-- [x] Fix image contrast/exposure
-- [x] Add more Themes
 
 &nbsp;
 
