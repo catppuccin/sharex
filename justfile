@@ -1,18 +1,13 @@
-default: all
-
-setup:
-  mkdir -p themes
+_default:
+  @just --list
 
 clean:
-  rm -fv themes/*.json
   rm -rfv dist
 
-gen flavor:
-  whiskers theme.json.tmpl {{flavor}} -o themes/{{flavor}}.json
+build:
+  whiskers sharex.tera
 
-zip:
+zip: build
   mkdir -p dist
   zip -r dist/image-effects.zip image-effects/
   zip -r dist/themes.zip themes/
-
-all: setup (gen "latte") (gen "frappe") (gen "macchiato") (gen "mocha")
