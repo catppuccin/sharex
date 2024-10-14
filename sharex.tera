@@ -1,0 +1,31 @@
+---
+whiskers:
+  version: 2.5.1
+  matrix:
+    - flavor
+  filename: "themes/catppuccin-{{ flavor.identifier }}.json"
+---
+{%- macro rgb(color) -%}
+{{ color.rgb.r }}, {{ color.rgb.g }}, {{ color.rgb.b }}
+{%- endmacro -%}
+{
+  "Name": "Catppuccin {{ flavor.identifier | title }}",
+  "BackgroundColor": "{{ self::rgb(color=base) }}",
+  "LightBackgroundColor": "{{ self::rgb(color=mantle) }}",
+  "DarkBackgroundColor": "{{ self::rgb(color=crust) }}",
+  "TextColor": "{{ self::rgb(color=text) }}",
+  "BorderColor": "{{ self::rgb(color=overlay1) }}",
+  "CheckerColor": "{{ self::rgb(color=base) }}",
+  "CheckerColor2": "{{ self::rgb(color=mantle) }}",
+  "CheckerSize": 15,
+  "LinkColor": "{{ self::rgb(color=blue) }}",
+  "MenuHighlightColor": "{{ self::rgb(color=surface0) }}",
+  "MenuHighlightBorderColor": "{{ self::rgb(color=overlay1) }}",
+  "MenuBorderColor": "{{ self::rgb(color=overlay1) }}",
+  "MenuCheckBackgroundColor": "{{ self::rgb(color=base) }}",
+  "MenuFont": "Segoe UI, 9.75pt",
+  "ContextMenuFont": "Segoe UI, 9.75pt",
+  "ContextMenuOpacity": 100,
+  "SeparatorLightColor": "{{ self::rgb(color=subtext1) }}",
+  "SeparatorDarkColor": "{{ self::rgb(color=subtext0) }}"
+}
